@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import osmnx as ox
+import matplotlib.pyplot as plt
 
 df = pd.DataFrame(
     np.random.randn(10, 2),
