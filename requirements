@@ -1,6 +1,5 @@
 streamlit
 matplotlib
 numpy
-geopandas
+osmnx
 pandas
-folium
