@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import osmnx as ox
+#import osmnx as ox
 import matplotlib.pyplot as plt
 
 # df = pd.DataFrame(
